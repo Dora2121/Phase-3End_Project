@@ -1,0 +1,24 @@
+E:\c# assignment\emsfullstack\bal\bin\Debug\bal.dll
+E:\c# assignment\emsfullstack\bal\bin\Debug\bal.pdb
+E:\c# assignment\emsfullstack\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+E:\c# assignment\emsfullstack\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
+E:\c# assignment\emsfullstack\bal\obj\Debug\bal.dll
+E:\c# assignment\emsfullstack\bal\obj\Debug\bal.pdb
+E:\c# assignment\emsfullstack\bal\bin\Debug\bal.dll.config
+E:\c# assignment\emsfullstack\bal\bin\Debug\EntityFramework.dll
+E:\c# assignment\emsfullstack\bal\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# assignment\emsfullstack\bal\bin\Debug\EntityFramework.xml
+E:\c# assignment\emsfullstack\bal\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# assignment\emsfullstack\bal\obj\Debug\bal.csproj.CopyComplete
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\bal.dll.config
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\bal.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\bal.pdb
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\EntityFramework.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\EntityFramework.SqlServer.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\EntityFramework.xml
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\bin\Debug\EntityFramework.SqlServer.xml
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\obj\Debug\bal.csproj.CopyComplete
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\obj\Debug\bal.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\bal\obj\Debug\bal.pdb

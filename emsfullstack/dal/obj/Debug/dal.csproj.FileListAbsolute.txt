@@ -1,0 +1,30 @@
+E:\c# assignment\emsfullstack\dal\bin\Debug\dal.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\dal.pdb
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.dll
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.pdb
+E:\c# assignment\emsfullstack\dal\bin\Debug\dal.dll.config
+E:\c# assignment\emsfullstack\dal\bin\Debug\bal.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\bal.pdb
+E:\c# assignment\emsfullstack\dal\bin\Debug\bal.dll.config
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.xml
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.csproj.CopyComplete
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\dal.dll.config
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\dal.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\dal.pdb
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\bal.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\EntityFramework.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\EntityFramework.SqlServer.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\bal.pdb
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\bal.dll.config
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\EntityFramework.xml
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\bin\Debug\EntityFramework.SqlServer.xml
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\obj\Debug\dal.csproj.CopyComplete
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\obj\Debug\dal.dll
+I:\GitUploads\pratice-project\EMS fulll stack\emsfullstack\dal\obj\Debug\dal.pdb
